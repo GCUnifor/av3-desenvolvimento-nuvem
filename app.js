@@ -2,7 +2,7 @@
 const express = require('express');
 
 //import createClient from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
-import {createClient} from '@supabase/supabase-js'
+//import {createClient} from '@supabase/supabase-js'
 const supabaseClient = require('@supabase/supabase-js');
 
 //import morgan from 'morgan';
